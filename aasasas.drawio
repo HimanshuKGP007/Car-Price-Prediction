@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T09:15:43.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="nCuO2aamerBXBfodjjAW" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T10:22:14.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="TD-OPUaP_J4jQEGCkRf2" version="15.6.6" type="github">
   <diagram id="k461fw8JWpNKtygEl9nS" name="Page-1">
-    <mxGraphModel dx="716" dy="367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,17 +106,17 @@
         <mxCell id="SeNycPilghAPU99Ugmb9-43" value="Doubt" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="911" y="763" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SeNycPilghAPU99Ugmb9-44" value="Waremelon" style="rounded=1;arcSize=9;fillColor=#ffffff;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontColor=#000000;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;glass=0;" vertex="1" parent="1">
+        <mxCell id="SeNycPilghAPU99Ugmb9-44" value="What is function of read_csv in Pandas?" style="rounded=1;arcSize=9;fillColor=#ffffff;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontColor=#000000;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="911" y="788" width="290" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SeNycPilghAPU99Ugmb9-48" value="Description" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="911" y="913" width="240" height="20" as="geometry" />
+        <mxCell id="SeNycPilghAPU99Ugmb9-48" value="Here are similar queries asked by your friends" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="909" y="840" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SeNycPilghAPU99Ugmb9-49" value="What is important for people to know?" style="rounded=1;arcSize=4;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;verticalAlign=top;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="911" y="938" width="360" height="115" as="geometry" />
+        <mxCell id="SeNycPilghAPU99Ugmb9-49" value="Q. How to import a file using Pandas?" style="rounded=1;arcSize=4;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;verticalAlign=top;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="908" y="865" width="295" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="SeNycPilghAPU99Ugmb9-50" value="Project permissions" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#172B4C;fontStyle=1;fontSize=14;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="911" y="1073" width="240" height="20" as="geometry" />
+        <mxCell id="SeNycPilghAPU99Ugmb9-50" value="Still have a query?" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#172B4C;fontStyle=1;fontSize=14;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="908" y="974" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SeNycPilghAPU99Ugmb9-51" value="User access" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#172B4C;fontStyle=0;fontSize=12;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="911" y="1093" width="240" height="20" as="geometry" />
@@ -130,11 +130,11 @@
         <mxCell id="SeNycPilghAPU99Ugmb9-54" value="None" style="shape=ellipse;rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;" vertex="1" parent="1">
           <mxGeometry x="921" y="1163" width="12" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="SeNycPilghAPU99Ugmb9-55" value="Publish" style="rounded=1;fillColor=#0057D8;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;html=1;shadow=0;dashed=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="911" y="1203" width="60" height="33" as="geometry" />
+        <mxCell id="SeNycPilghAPU99Ugmb9-55" value="Post Doubt" style="rounded=1;fillColor=#0057D8;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;html=1;shadow=0;dashed=0;sketch=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="909" y="1007" width="92" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="SeNycPilghAPU99Ugmb9-56" value="Cancel" style="fillColor=none;strokeColor=none;fontColor=#596780;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;html=1;shadow=0;dashed=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="981" y="1203" width="60" height="33" as="geometry" />
+        <mxCell id="SeNycPilghAPU99Ugmb9-56" value="My Doubt is cleared" style="fillColor=none;strokeColor=none;fontColor=#596780;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;html=1;shadow=0;dashed=0;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="998" y="1007" width="164" height="33" as="geometry" />
         </mxCell>
         <mxCell id="SeNycPilghAPU99Ugmb9-57" value="Email" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="263" y="1428" width="150" height="40" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="263" y="1478" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SeNycPilghAPU99Ugmb9-60" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;rounded=0;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="1">
-          <mxGeometry x="413" y="1478" width="650" height="40" as="geometry" />
+          <mxGeometry x="413" y="1478" width="223" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SeNycPilghAPU99Ugmb9-61" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="207" y="590" width="200" height="390" as="geometry" />
@@ -156,6 +156,27 @@
         </mxCell>
         <mxCell id="SeNycPilghAPU99Ugmb9-63" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.looking_glass;rounded=0;glass=0;sketch=0;fontFamily=Georgia;fontSize=11;fontColor=default;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="1175" y="801.5" width="12.41" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-64" value="Q. What is read_excel in Python?" style="rounded=1;arcSize=4;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;verticalAlign=top;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="908.5" y="900" width="295" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-65" value="Q. List basic functions of Pandas" style="rounded=1;arcSize=4;fillColor=#F7F8F9;align=left;spacingLeft=5;strokeColor=#DEE1E6;html=1;strokeWidth=2;fontColor=#596780;fontSize=12;verticalAlign=top;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="908.5" y="936" width="295" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-66" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/arrow-left-circle-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Georgia;fontSize=11;fontColor=default;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="1178.5" y="868" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/arrow-left-circle-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Georgia;fontSize=11;fontColor=default;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="1178.5" y="903" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/arrow-left-circle-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Georgia;fontSize=11;fontColor=default;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="1178.5" y="939" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/feather/24/arrow-left-circle-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Georgia;fontSize=11;fontColor=default;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="1322" y="780.5" width="21" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-70" value="Enter you Feedback" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=0;glass=0;sketch=0;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="278" y="1564" width="361" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
