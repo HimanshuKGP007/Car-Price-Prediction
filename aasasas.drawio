@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T07:31:24.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="76VpGWtaJ6PsRQVzOKX_" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T07:40:54.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="fDiZw_azyvmCekExUIoX" version="15.6.6" type="github">
   <diagram id="k461fw8JWpNKtygEl9nS" name="Page-1">
-    <mxGraphModel dx="865" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="887" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,6 +36,21 @@
         </mxCell>
         <mxCell id="SeNycPilghAPU99Ugmb9-8" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="677" y="189" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1157" y="86" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;fillColor=default;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="86" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-11" value="Fast Pace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="983" y="496" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-12" value="Mid Pace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="496" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-13" value="Slow Pace" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1468" y="496" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
