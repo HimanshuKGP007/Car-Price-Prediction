@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T07:43:18.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="PLiJPYJTDE72iFUZ0ev5" version="15.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T07:54:40.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="bzieEJ8fEfT93EGM0ge9" version="15.6.6" type="github">
   <diagram id="k461fw8JWpNKtygEl9nS" name="Page-1">
     <mxGraphModel dx="865" dy="443" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="SeNycPilghAPU99Ugmb9-17" value="Video Content" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1407.5" y="123" width="181" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="SeNycPilghAPU99Ugmb9-18" value="Solved Examples" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="360" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
